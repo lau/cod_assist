@@ -1,0 +1,2 @@
+defmodule CodAssist do
+end

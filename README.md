@@ -4,7 +4,9 @@ Get a notification when a CoD server is started on the LAN.
 
 For Call of Duty 2 and 4 multiplayer on Max OS X
 
-## Requires
+## Requirements
+
+The following needs to be installed in order for the program to run:
 
 - terminal-notifier
 - Elixir
@@ -27,4 +29,4 @@ Start the script by double clicking the `start.command` file.
 
 Once a game server is detected it will make a notification. Click it to connect to the game.
 
-To stop the CoD notification tool: Press Ctrl-C then enter `a` then hit ENTER. Or simply closed the Terminal window where it resides.
+To stop the CoD notification tool: Press Ctrl-C then enter `a` then hit ENTER. Or simply close the Terminal window.
